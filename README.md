@@ -22,3 +22,14 @@ optimization.m  --> neglogpost(2).m --> eqPcycle.m (-->buildPFD.m)
                                       
                                       
 ## Error estimations ##                                      
+
+You will find a couple of Matlab functions in the errorbar directory. These functions are used to generate model errorbars usnig Monte Carlo method.
+
+The model structure is as follows
+
+EB_main.m first calls neglogpost.m that produces phosphorus and Th-234 fields based on randomly drawn model parameters from a normal distribution with mean of optimal parameters and variance of second derivative (Hession) evaluated at optimal parameter values. EB_main.m then call POC_export_errorbar.m and totC_export_errorbar.m to produce new POC and TOC export fluxes.
+
+
+## Supplementary Methods #
+
+Latex files to generate Supplementary is located in NOTES directory.
