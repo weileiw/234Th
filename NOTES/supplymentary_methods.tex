@@ -209,10 +209,10 @@ Dissolved $^{234}$Th and phosphate are transported by advection and diffusion th
 This operator was optimized using multiple tracers, including salinity, temperature, sea surface height, CFC11, pre-bomb radiocarbon, and phosphate \citep{DeVries2011,Primeau2013}.
 Element concentrations are denoted using square bracket (e.g. [C]).
 The vertical transport of particulate $^{234}$Th and particulate organic phosphorus is modeled using a particle flux divergence operator that is built based on the power law attenuation function known as Martin curve \citep{fu2017}.
-The Martin curve exponential $b$ values are optimized in inversion,
+The Martin curve exponential $b$ values are optimized in inversion.
 
 \subsection{Bayesian optimization}
-We obtain P and Th fields by solving the governing equations for P and Th(Eqs.1-3).
+We obtain phosphorus (P) and thorium (Th) fields by solving the governing equations for P and Th(Eqs.1-3).
 The governing equations for P-cycle model are linear, and thus can be solved using direct matrix inversion.
 With POP concentration from the P model, the Th equations are also linear, and are therefore solved by direct matrix inversion.
 We minimize the difference between model outputs and observations by optimizing a set of parameters controlling P and Th cycle using the following objective function.
@@ -220,7 +220,7 @@ We minimize the difference between model outputs and observations by optimizing 
 f = e_{\textrm{P}}{'}\frac{1}{\boldsymbol{\mathsf{W_P}}}e_\textrm{P} + e_{\textrm{Th}}^{'}\frac{1}{\boldsymbol{\mathsf{W_{Th}}}}e_{\textrm{Th}},
 \end{align*}
 where $ e_{\textrm{Th}} = \textrm{log(Th}_{\textrm{mod}})-\textrm{log(Th}_{\textrm{obs}})$ and $e_{\textrm{P}} = \textrm{log(DIP}_{\textrm{mod}})-\textrm{log(DIP}_{\textrm{obs}})$.
-$\boldsymbol{\mathsf{W_{Th}}}$ and $\boldsymbol{\mathsf{W_{P}}}$ are weighing matrices for $^{234}$Th and DIP. $\boldsymbol{\mathsf{W_{Th}}}$ is defined using the following equation,
+$\boldsymbol{\mathsf{W_{Th}}}$ and $\boldsymbol{\mathsf{W_{P}}}$ are precision matrices for $^{234}$Th and DIP. $\boldsymbol{\mathsf{W_{Th}}}$ is defined using the following equation,
 \begin{align*}
 \boldsymbol{\mathsf{W_{Th}}} = \frac{1}{\sigma^2_{\textrm{Th}}}\boldsymbol{\mathsf{V}},
 \end{align*}
@@ -235,17 +235,17 @@ with
 where $\boldsymbol{\mathsf{V_{Th}}}$ is grid box volume, and the subscript Th represents the grid boxes with $^{234}$Th observations.
 The DIP weighing matrix $\boldsymbol{\mathsf{W_{P}}}$ is defined similarly.
 
-The optimization is conducted using a matlab function fminunc, which is efficient because we are able to supply the first and second derivatives.
-The optimization are generally finish within 100 iterations.
+The optimization is conducted using Matlab's \verb+fminunc+ function, which is efficient because we are able to supply the first and second derivatives.
+The optimization generally finish within 100 iterations.
 The optimal model parameters are presented in Table S\ref{tab:parameters} and Fig. S\ref{fig:b}.
-Parameter errorbars that correspond to $\pm$1 standard deviation, are calculated according to \cite{Wang2019}
+Parameter errorbars that correspond to $\pm$1 standard deviation, are calculated according to the method described in\cite{Wang2019}
 
 
 \subsection{Error estimation}
-The error estimation is conducted using Monte Carlo method. Errors are considered from three major sources.
-1) model parameters and associated error bars, 2) C:P ratio that is used to convert total phosphorus export to carbon export, 3) POC to $^{234}$Th ratio.
+The error estimation is conducted using Monte Carlo method. Errors are considered from three major sources:
+1) Model parameters and associated error bars, 2) C:P ratio that is used to convert total phosphorus export to carbon export, and 3) POC to $^{234}$Th ratio.
 For each iteration, parameters are randomly drawn from a normal distribution with mean defined by optimal model parameters and variance defined by the covariance matrix (second derivative Hessian matrix evaluated at optimal parameter values).
-C:P ratio from Teng et al is randomly selected from a space that constrained by the errorbar ranges for each region.
+C:P ratio from \cite{Teng2014} is randomly selected from a space that constrained by the errorbar ranges for each region.
 POC to $^{234}$Th ratio is drawn from a normal distribution with a mean defined by POC:Th = $135.3z^{-0.795}$ at $z = 114 $m and a variance of 0.25, which creates a range between $\sim$2.3 to $\sim$4.0 that is consistent to Fig. 8 of Ref.\citep{Owens2015}.
 In the Monte Carlo analysis, we recalculate carbon export fluxes based on parameters from each random drawn.
 The median values and 95\% confidence intervals are based{} on a sample size of 1000.
@@ -266,8 +266,8 @@ Two parameters controlling the ``slope'' ($S$) and ``intercept'' ($R_{min}$) are
 
 \begin{equation}
 \begin{split}
-  &R_{M:P} = R_{min}+S(1-tanh([DIP]))\\
-  &R_{M:P} = R_{min}-S[DIP]
+  &R_{M:P} = R_{min}+S(1-\tanh([\mathrm{DIP}]))\\
+  &R_{M:P} = R_{min}-S[\mathrm{DIP}]
 \end{split}
 \end{equation}
 We found that the optimal value of $R_{min}$ correlates with adsorption and desorption rate constants, and the optimal value of $S$ is less than 1$\times$10$^{-2}$. Thus, we got virtually the same POC and DOC export patterns as the control model. Based on the current data constraints, we did not find the evidence indicating $R_{M:P}$ has spatial variations, and the gradient is too weak and can be ignored.
