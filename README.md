@@ -11,8 +11,8 @@ Function buildPFD.m is the function that is used to build particle flux divergen
 
 In summary, the structure of the modle is as follows,
 
-                                      --> eqPcycle.m (buildPFD.m)
-optimization.m  --> neglogpost(2).m
-                                      --> eqThcycle.m (buildPFD.m)
+                                       --> eqPcycle.m (buildPFD.m)
+optimization.m  --> neglogpost(2).m --
+                                       --> eqThcycle.m (buildPFD.m)
                                       
                                       
