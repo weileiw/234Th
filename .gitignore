@@ -1,0 +1,7 @@
+*.mat
+*~
+*.eps
+*.txt
+*.log
+*.slurm
+*.sh
