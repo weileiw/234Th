@@ -1,5 +1,7 @@
 # 234Th
 
+##Optimization
+
 This is the code used to generate results of the 234Th based POC and TOC export paper. 
 
 To do parameter optimization, go to the CODE directory. You will find multiple .m files that are matlab files.
@@ -18,3 +20,5 @@ optimization.m  --> neglogpost(2).m --> eqPcycle.m (-->buildPFD.m)
                                     --> eqThcycle.m (-->buildPFD.m)
                                       
                                       
+                                      
+##Error estimations                                      
