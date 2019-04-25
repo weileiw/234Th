@@ -33,3 +33,8 @@ EB_main.m first calls neglogpost.m that produces phosphorus and Th-234 fields ba
 ## Supplementary Methods #
 
 Latex files to generate Supplementary is located in NOTES directory.
+
+
+## Contact me
+
+Please contact W.L.Wang (weilei.wang@gmail.com) to get the transport operator and supporting data to run the model.
