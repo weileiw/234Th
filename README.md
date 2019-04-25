@@ -1,6 +1,6 @@
 # 234Th
 
-##Optimization
+##Optimization##
 
 This is the code used to generate results of the 234Th based POC and TOC export paper. 
 
@@ -21,4 +21,4 @@ optimization.m  --> neglogpost(2).m --> eqPcycle.m (-->buildPFD.m)
                                       
                                       
                                       
-##Error estimations                                      
+##Error estimations##                                      
