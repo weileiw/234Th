@@ -1,0 +1,261 @@
+\begin{thebibliography}{36}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textit{Black et~al.}(2018)\textit{Black, Buesseler, Pike, and
+  Lam}}]{Black2017}
+Black, E.~E., K.~O. Buesseler, S.~M. Pike, and P.~J. Lam (2018), {$^{234}$Th}
+  as a tracer of particulate export and remineralization in the southeastern
+  tropical {Pacific}, \textit{Mar. Chem.}, \textit{201}, 35--50,
+  \doi{10.1016/j.marchem.2017.06.009}.
+
+\bibitem[{\textit{Buesseler et~al.}(2005)\textit{Buesseler, Andrews, Pike,
+  Charette, Goldson, Brzezinski, and Lance}}]{buesseler2005}
+Buesseler, K.~O., J.~Andrews, S.~M. Pike, M.~A. Charette, L.~E. Goldson, M.~A.
+  Brzezinski, and V.~Lance (2005), Particle export during the southern ocean
+  iron experiment (sofex), \textit{Limnology and Oceanography}, \textit{50}(1),
+  311--327.
+
+\bibitem[{\textit{Buesseler et~al.}(2008)\textit{Buesseler, Lamborg, Cai,
+  Escoube, Johnson, Pike, Masque, McGillicuddy, and Verdeny}}]{Buesseler2008}
+Buesseler, K.~O., C.~Lamborg, P.~Cai, R.~Escoube, R.~Johnson, S.~Pike,
+  P.~Masque, D.~McGillicuddy, and E.~Verdeny (2008), {Particle fluxes
+  associated with mesoscale eddies in the Sargasso Sea}, \textit{Deep-Sea Res.
+  II}, \textit{55}(10-13), 1426--1444, \doi{10.1016/j.dsr2.2008.02.007}.
+
+\bibitem[{\textit{Cai et~al.}(2008)\textit{Cai, Chen, Dai, Wan, Wang, Li, Tang,
+  and Lv}}]{cai2008}
+Cai, P., W.~Chen, M.~Dai, Z.~Wan, D.~Wang, Q.~Li, T.~Tang, and D.~Lv (2008), A
+  high-resolution study of particle export in the southern south china sea
+  based on 234th: 238u disequilibrium, \textit{Journal of Geophysical Research:
+  Oceans}, \textit{113}(C4).
+
+\bibitem[{\textit{Cai et~al.}(2010)\textit{Cai, Rutgers Van Der~Loeff, Stimac,
+  N{\"o}thig, Lepore, and Moran}}]{Cai2010}
+Cai, P., M.~Rutgers Van Der~Loeff, I.~Stimac, E.-M. N{\"o}thig, K.~Lepore, and
+  S.~Moran (2010), Low export flux of particulate organic carbon in the central
+  arctic ocean as revealed by 234th: 238u disequilibrium, \textit{Journal of
+  Geophysical Research: Oceans}, \textit{115}(C10).
+
+\bibitem[{\textit{Charette et~al.}(1999)\textit{Charette, Moran, and
+  Bishop}}]{charette1999}
+Charette, M.~A., S.~B. Moran, and J.~K. Bishop (1999), 234th as a tracer of
+  particulate organic carbon export in the subarctic northeast pacific ocean,
+  \textit{Deep Sea Research Part II: Topical Studies in Oceanography},
+  \textit{46}(11-12), 2833--2861.
+
+\bibitem[{\textit{Coppola et~al.}(2005)\textit{Coppola, Roy-Barman, Mulsow,
+  Povinec, and Jeandel}}]{coppola2005}
+Coppola, L., M.~Roy-Barman, S.~Mulsow, P.~Povinec, and C.~Jeandel (2005), Low
+  particulate organic carbon export in the frontal zone of the southern ocean
+  (indian sector) revealed by 234th, \textit{Deep Sea Research Part I:
+  Oceanographic Research Papers}, \textit{52}(1), 51--68.
+
+\bibitem[{\textit{DeVries and Primeau}(2011)}]{DeVries2011}
+DeVries, T., and F.~W. Primeau (2011), {Dynamically and observationally
+  constrained estimates of water-mass distributions and ages in the global
+  ocean}, \textit{J. Phys. Oceanogr.}, \textit{41}(12), 2381--2401,
+  \doi{10.1175/jpo-d-10-05011.1}.
+
+\bibitem[{\textit{Fu and Primeau}(2017)}]{fu2017}
+Fu, W., and F.~Primeau (2017), {Application of a fast Newton--Krylov solver for
+  equilibrium simulations of phosphorus and oxygen}, \textit{Ocean Model.},
+  \textit{119}, 35--44.
+
+\bibitem[{\textit{Galbraith and Martiny}(2015)}]{Galbraith2015}
+Galbraith, E.~D., and A.~C. Martiny (2015), {A simple nutrient-dependence
+  mechanism for predicting the stoichiometry of marine ecosystems},
+  \textit{Proc. Natl. Acad. Sci. USA}, \textit{112}(27), 8199--8204,
+  \doi{10.1073/pnas.1423917112}.
+
+\bibitem[{\textit{Garcia et~al.}(2014)\textit{Garcia, Locarnini, Boyer,
+  Antonov, Baranova, Zweng, Reagan, and Johnson}}]{Garcia2014}
+Garcia, H., R.~Locarnini, T.~Boyer, J.~Antonov, O.~Baranova, M.~Zweng,
+  J.~Reagan, and D.~Johnson (2014), {World Ocean Atlas 2013, Volume 4:
+  Dissolved Inorganic Nutrients (Phosphate, Nitrate, Silicate), NOAA Atlas
+  NESDIS, vol. 76, edited by S. Levitus, 25 pp}, \textit{US Gov. Print. Off.,
+  Washington, DC}.
+
+\bibitem[{\textit{KawaKami et~al.}(2010)\textit{KawaKami, Honda, Matsumoto,
+  Fujiki, and Watanabe}}]{Kawakami2010}
+KawaKami, H., M.~C. Honda, K.~Matsumoto, T.~Fujiki, and S.~Watanabe (2010),
+  {East-west Distribution of POC fluxes estimated from {$^{234}$Th} in the
+  northern North Pacific in Autumn}, \textit{Journal of Geophysical},
+  \textit{66}, 71--83.
+
+\bibitem[{\textit{Kriest and Oschlies}(2008)}]{kriest2008}
+Kriest, I., and A.~Oschlies (2008), On the treatment of particulate organic
+  matter sinking in large-scale models of marine biogeochemical cycles,
+  \textit{Biogeosciences (BG)}, \textit{5}, 55--72.
+
+\bibitem[{\textit{Lalande et~al.}(2008)\textit{Lalande, Moran, Wassmann,
+  Grebmeier, and Cooper}}]{lalande2008}
+Lalande, C., S.~B. Moran, P.~Wassmann, J.~M. Grebmeier, and L.~W. Cooper
+  (2008), 234th-derived particulate organic carbon fluxes in the northern
+  barents sea with comparison to drifting sediment trap fluxes, \textit{Journal
+  of Marine Systems}, \textit{73}(1-2), 103--113.
+
+\bibitem[{\textit{Le~Moigne et~al.}(2014)\textit{Le~Moigne, Moore, Sanders,
+  Villa-Alfageme, Steigenberger, and Achterberg}}]{LeMoigne2014}
+Le~Moigne, F.~A., C.~M. Moore, R.~J. Sanders, M.~Villa-Alfageme,
+  S.~Steigenberger, and E.~P. Achterberg (2014), Sequestration efficiency in
+  the iron-limited north atlantic: Implications for iron supply mode to
+  fertilized blooms, \textit{Geophysical Research Letters}, \textit{41}(13),
+  4619--4627.
+
+\bibitem[{\textit{Le~Moigne et~al.}(2016)\textit{Le~Moigne, Henson, Cavan,
+  Georges, Pabortsava, Achterberg, Ceballos-Romero, Zubkov, and
+  Sanders}}]{le2016}
+Le~Moigne, F.~A., S.~A. Henson, E.~Cavan, C.~Georges, K.~Pabortsava, E.~P.
+  Achterberg, E.~Ceballos-Romero, M.~Zubkov, and R.~J. Sanders (2016), {What
+  causes the inverse relationship between primary production and export
+  efficiency in the Southern Ocean?}, \textit{Geophys. Res. Lett.},
+  \textit{43}(9), 4457--4466.
+
+\bibitem[{\textit{Le~Moigne et~al.}(2013)\textit{Le~Moigne, Henson, Sanders,
+  and Madsen}}]{LeMoigne2013}
+Le~Moigne, F. A.~C., S.~A. Henson, R.~J. Sanders, and E.~Madsen (2013), {Global
+  database of surface ocean particulate organic carbon export fluxes diagnosed
+  from the $^{234}$Th technique}, \textit{Earth Syst. Sci. Data},
+  \textit{5}(2), 295--304, \doi{10.5194/essd-5-295-2013}.
+
+\bibitem[{\textit{Mawji et~al.}(2015)\textit{Mawji, Schlitzer, Dodas, Abadie,
+  Abouchami, Anderson, Baars, Bakker, Baskaran, Bates et~al.}}]{mawji2015}
+Mawji, E., R.~Schlitzer, E.~M. Dodas, C.~Abadie, W.~Abouchami, R.~F. Anderson,
+  O.~Baars, K.~Bakker, M.~Baskaran, N.~R. Bates, et~al. (2015), The geotraces
+  intermediate data product 2014.
+
+\bibitem[{\textit{Moigne et~al.}(2015)\textit{Moigne, Poulton, Henson, Daniels,
+  Fragoso, Mitchell, Richier, Russell, Smith, Tarling et~al.}}]{LeMoigne2015}
+Moigne, F.~A., A.~J. Poulton, S.~A. Henson, C.~J. Daniels, G.~M. Fragoso,
+  E.~Mitchell, S.~Richier, B.~C. Russell, H.~E. Smith, G.~A. Tarling, et~al.
+  (2015), Carbon export efficiency and phytoplankton community composition in
+  the atlantic sector of the arctic ocean, \textit{Journal of Geophysical
+  Research: Oceans}, \textit{120}(6), 3896--3912.
+
+\bibitem[{\textit{Mouw et~al.}(2016)\textit{Mouw, Barnett, McKinley, Gloege,
+  and Pilcher}}]{mouw2016}
+Mouw, C.~B., A.~Barnett, G.~A. McKinley, L.~Gloege, and D.~Pilcher (2016),
+  Global ocean particulate organic carbon flux merged with satellite
+  parameters, \textit{Earth Syst. Sci. Data}, \textit{8}(2), 531.
+
+\bibitem[{\textit{Owens et~al.}(2015)\textit{Owens, Pike, and
+  Buesseler}}]{Owens2015}
+Owens, S.~A., S.~Pike, and K.~O. Buesseler (2015), {Thorium-234 as a tracer of
+  particle dynamics and upper ocean export in the Atlantic Ocean},
+  \textit{Deep-Sea Res. II}, \textit{116}, 42--59,
+  \doi{10.1016/j.dsr2.2014.11.010}.
+
+\bibitem[{\textit{Planchon et~al.}(2013)\textit{Planchon, Cavagna, Cardinal,
+  ́, and Dehairs}}]{Planchon2013}
+Planchon, F., A.-J. Cavagna, D.~Cardinal, L.~A. ́, and F.~Dehairs (2013),
+  {Late summer particulate organic carbon export and twilight zone
+  remineralisation in the Atlantic sector of the Southern Ocean},
+  \textit{Biogeosciences}, \textit{10}, 803--820, \doi{0.5194/bg-10-803-2013}.
+
+\bibitem[{\textit{Planchon et~al.}(2015)\textit{Planchon, Ballas, Cavagna,
+  Bowie, Davies, Trull, Laurenceau-Cornec, Van Der~Merwe, and
+  Dehairs}}]{planchon2015}
+Planchon, F., D.~Ballas, A.~Cavagna, A.~Bowie, D.~Davies, T.~Trull,
+  E.~Laurenceau-Cornec, P.~Van Der~Merwe, and F.~Dehairs (2015), Carbon export
+  in the naturally iron-fertilized kerguelen area of the southern ocean based
+  on the 234 th approach, \textit{Biogeosciences}, \textit{12}(12), 3831--3848.
+
+\bibitem[{\textit{Primeau et~al.}(2013)\textit{Primeau, Holzer, and
+  DeVries}}]{Primeau2013}
+Primeau, F.~W., M.~Holzer, and T.~DeVries (2013), {Southern Ocean nutrient
+  trapping and the efficiency of the biological pump}, \textit{J. Geophys. Res.
+  Ocean.}, \textit{118}(5), 2547--2564, \doi{10.1002/jgrc.20181}.
+
+\bibitem[{\textit{Roca-Mart{\'\i} et~al.}(2017)\textit{Roca-Mart{\'\i},
+  Puigcorb{\'e}, Iversen, van~der Loeff, Klaas, Cheah, Bracher, and
+  Masqu{\'e}}}]{roca2017}
+Roca-Mart{\'\i}, M., V.~Puigcorb{\'e}, M.~H. Iversen, M.~R. van~der Loeff,
+  C.~Klaas, W.~Cheah, A.~Bracher, and P.~Masqu{\'e} (2017), High particulate
+  organic carbon export during the decline of a vast diatom bloom in the
+  atlantic sector of the southern ocean, \textit{Deep Sea Research Part II:
+  Topical Studies in Oceanography}, \textit{138}, 102--115.
+
+\bibitem[{\textit{Rosengard et~al.}(2015)\textit{Rosengard, Lam, Balch, Auro,
+  Pike, Drapeau, and Bowler}}]{rosengard2015}
+Rosengard, S.~Z., P.~J. Lam, W.~M. Balch, M.~E. Auro, S.~Pike, D.~Drapeau, and
+  B.~Bowler (2015), Carbon export and transfer to depth across the southern
+  ocean great calcite belt, \textit{Biogeosciences}, \textit{12}(13),
+  3953--3971.
+
+\bibitem[{\textit{Rutgers van~der Loeff et~al.}(2011)\textit{Rutgers van~der
+  Loeff, Cai, Stimac, Bracher, Middag, Klunder, and van
+  Heuven}}]{vanderLoeff2011}
+Rutgers van~der Loeff, M., P.~H. Cai, I.~Stimac, A.~Bracher, R.~Middag, M.~B.
+  Klunder, and S.~M. A.~C. van Heuven (2011), {$^{234}$Th in surface waters:
+  Distribution of particle export flux across the Antarctic Circumpolar Current
+  and in the Weddell Sea during the GEOTRACES expedition ZERO and DRAKE},
+  \textit{Deep-Sea Res. II}, \textit{58}(25-26), 2749--2766,
+  \doi{10.1016/j.dsr2.2011.02.004}.
+
+\bibitem[{\textit{Santschi et~al.}(1999)\textit{Santschi, Guo, Walsh, Quigley,
+  and Baskaran}}]{santschi1999}
+Santschi, P.~H., L.~Guo, I.~D. Walsh, M.~Quigley, and M.~Baskaran (1999),
+  Boundary exchange and scavenging of radionuclides in continental margin
+  waters of the middle atlantic bight: implications for organic carbon fluxes,
+  \textit{Continental Shelf Research}, \textit{19}(5), 609--636.
+
+\bibitem[{\textit{Schlitzer et~al.}(2018)\textit{Schlitzer, Anderson, Dodas,
+  Lohan, Geibert, Tagliabue, Bowie, Jeandel, Maldonado, Landing
+  et~al.}}]{schlitzer2018}
+Schlitzer, R., R.~F. Anderson, E.~M. Dodas, M.~Lohan, W.~Geibert, A.~Tagliabue,
+  A.~Bowie, C.~Jeandel, M.~T. Maldonado, W.~M. Landing, et~al. (2018), The
+  geotraces intermediate data product 2017, \textit{Chemical Geology},
+  \textit{493}, 210--223.
+
+\bibitem[{\textit{Teng et~al.}(2014)\textit{Teng, Primeau, Moore, Lomas, and
+  Martiny}}]{Teng2014}
+Teng, Y.~C., F.~W. Primeau, J.~K. Moore, M.~W. Lomas, and A.~C. Martiny (2014),
+  {Global-scale variations of the ratios of carbon to phosphorus in exported
+  marine organic matter}, \textit{Nat. Geosci.}, \textit{7}(12), 895--898,
+  \doi{10.1038/ngeo2303}.
+
+\bibitem[{\textit{Thomalla et~al.}(2006)\textit{Thomalla, Turnewitsch, Lucas,
+  and Poulton}}]{thomalla2006}
+Thomalla, S., R.~Turnewitsch, M.~Lucas, and A.~Poulton (2006), Particulate
+  organic carbon export from the north and south atlantic gyres: The 234th/238u
+  disequilibrium approach, \textit{Deep Sea Research Part II: Topical Studies
+  in Oceanography}, \textit{53}(14-16), 1629--1648.
+
+\bibitem[{\textit{Van Der~Loeff et~al.}(1997)\textit{Van Der~Loeff, Friedrich,
+  and Bathmann}}]{van1997}
+Van Der~Loeff, M. M.~R., J.~Friedrich, and U.~V. Bathmann (1997), Carbon export
+  during the spring bloom at the antarctic polar front, determined with the
+  natural tracer 234th, \textit{Deep Sea Research Part II: Topical Studies in
+  Oceanography}, \textit{44}(1-2), 457--478.
+
+\bibitem[{\textit{Wang et~al.}(2019)\textit{Wang, Moore, Martiny, and
+  Primeau}}]{Wang2019}
+Wang, W., J.~Moore, A.~Martiny, and F.~Primeau (2019), Convergent estimates of
+  marine nitrogen fixation, \textit{Nature}, \textit{566}(7743), 205--+.
+
+\bibitem[{\textit{Westberry et~al.}(2008)\textit{Westberry, Behrenfeld, Siegel,
+  and Boss}}]{Westberry2008}
+Westberry, T., M.~Behrenfeld, D.~Siegel, and E.~Boss (2008), {Carbon-based
+  primary productivity modeling with vertically resolved photoacclimation},
+  \textit{Global Biogeochem. Cycles.}, \textit{22}(2), GB2024.
+
+\bibitem[{\textit{Zhou et~al.}(2012)\textit{Zhou, Nodder, Dai, and
+  Hall}}]{Zhou2012}
+Zhou, K., S.~D. Nodder, M.~Dai, and J.~Hall (2012), Insignificant enhancement
+  of export flux in the highly productive subtropical front, east of new
+  zealand: a high resolution study of particle export fluxes based on 234 th:
+  238 u disequilibria, \textit{Biogeosciences}, \textit{9}(3), 973--992.
+
+\bibitem[{\textit{Zweng et~al.}(2013)\textit{Zweng, Reagan, Antonov, Locarnini,
+  Mishonov, Boyer, Garcia, Baranova, Johnson, D.Seidov, and
+  Biddle}}]{Zweng2013}
+Zweng, M., J.~Reagan, J.~Antonov, R.~Locarnini, A.~Mishonov, T.~Boyer,
+  H.~Garcia, O.~Baranova, D.~Johnson, D.Seidov, and M.~Biddle (2013), {World
+  Ocean Atlas 2013, Volume 2: Salinity, NOAA Atlas NESDIS 74, edited by S.
+  Levitus, 39 pp}.
+
+\end{thebibliography}
