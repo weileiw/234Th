@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex supplymentary_methods"] 1556146357 "supplymentary_methods.aux" "supplymentary_methods.bbl" "supplymentary_methods" 1556146799
+["bibtex supplymentary_methods"] 1556146357 "supplymentary_methods.aux" "supplymentary_methods.bbl" "supplymentary_methods" 1556169146
   "./agufull08.bst" 1470611436 42484 52bc4fbbc5e52f1f4d75fb58363e06f8 ""
   "Thorium.bib" 1556124841 66984 21b955fbf491e0fc877e7096a855d1be ""
   "agu08.bst.bst" 0 -1 0 ""
-  "supplymentary_methods.aux" 1556146798 6537 57e28ae2c13ea63ec1ff58c8ea867b4a ""
+  "supplymentary_methods.aux" 1556169145 6537 57e28ae2c13ea63ec1ff58c8ea867b4a ""
   (generated)
   "supplymentary_methods.blg"
   "supplymentary_methods.bbl"
-["pdflatex"] 1556146797 "supplymentary_methods.tex" "supplymentary_methods.pdf" "supplymentary_methods" 1556146799
+["pdflatex"] 1556169144 "supplymentary_methods.tex" "supplymentary_methods.pdf" "supplymentary_methods" 1556169146
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1480098698 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm" 1480098698 1120 7f9f170e8aa57527ad6c49feafd45d54 ""
@@ -136,11 +136,11 @@
   "MvsO_GB15.pdf" 1536857176 208393 a15da82df85ecf578d1716e1cd63ca9e ""
   "agujournal.cls" 1512139096 39353 25eac57a56d67d4fd12b2d1fec7874b7 ""
   "hist.eps" 1556040513 63388 5c0031e6460e8eec4819b9915dbf5a89 ""
-  "supplymentary_methods.aux" 1556146798 6537 57e28ae2c13ea63ec1ff58c8ea867b4a ""
+  "supplymentary_methods.aux" 1556169145 6537 57e28ae2c13ea63ec1ff58c8ea867b4a ""
   "supplymentary_methods.bbl" 1556146357 14100 12c6fcf272270918649c85d59898752a "bibtex supplymentary_methods"
-  "supplymentary_methods.tex" 1556146796 24013 a2c63447fcc20899695a1be9701b54a7 ""
+  "supplymentary_methods.tex" 1556169143 24053 62668257becbd215c535f5b40302fdbd ""
   "teng_regions.eps" 1556050255 1582766 d634f95a8afb55743a41a0553e14144b ""
   (generated)
-  "supplymentary_methods.pdf"
-  "supplymentary_methods.aux"
   "supplymentary_methods.log"
+  "supplymentary_methods.aux"
+  "supplymentary_methods.pdf"
