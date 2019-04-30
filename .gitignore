@@ -10,6 +10,7 @@
 *.sh
 >>>>>>> f1f7d0a44f2ee4701f164d252655f75c6bc1ba9f
 DATA/*
+BEC_DOC/*
 FIGs/*
 First_submission/*
 UTILS/*
