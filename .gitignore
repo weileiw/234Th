@@ -15,3 +15,11 @@ FIGs/*
 First_submission/*
 UTILS/*
 python4plots/*
+NOTES/*.log
+NOTES/*.pdf
+NOTES/*.bbl
+NOTES/*.gz
+NOTES/*.eps
+NOTES/*.png
+NOTES/._*
+._*
